@@ -1,0 +1,19 @@
+
+data wrangling
+top_category pakai crosstab (mengeluarkan nama kategori top)
+rev_table pakai groupby (mengeluarkan nilai dari kategori top)
+
+data visualization
+menampilakan kind=barh
+
+diubah filenya menjadi app.py
+diubah filenya menjadi index.html
+
+set flask=app.py, jika terminal ditutup running lagi untuk set the flask
+flask run, buat running function flask
+
+jika success dapat localhost 127.0.0.1:5000, click control enter buat dibuka di google
+
+buat nampilin data hasil subsetnya
+top_category.Category[0]
+top_category.App[0]
